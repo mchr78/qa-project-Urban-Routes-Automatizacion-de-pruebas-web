@@ -9,7 +9,7 @@ Urban Routes es una aplicación web de transporte en la que los usuarios pueden 
 - Utilicé aserciones para verificar el comportamiento esperado.
 - Gestioné el código con Git y GitHub, incluida la creación del repositorio.
 
-## Herramientas y Técnicas:
+## Herramientas y Técnicas
 - Python
 - Selenium
 - Pytest
